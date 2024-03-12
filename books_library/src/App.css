@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  overflow-x: hidden;
+}
+
+.title {
+  border-bottom: 1px solid black;
+  margin-bottom: 5px;
+}
+
+h1 {
+  color: #1976d2;
+  text-align: center;
+}
